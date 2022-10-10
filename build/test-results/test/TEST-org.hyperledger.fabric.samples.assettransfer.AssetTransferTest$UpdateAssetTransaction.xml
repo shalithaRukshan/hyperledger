@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$UpdateAssetTransaction" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-06T21:00:38" hostname="shalitha-VirtualBox" time="0.024">
+  <properties/>
+  <testcase name="whenAssetExists()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$UpdateAssetTransaction" time="0.011"/>
+  <testcase name="whenAssetDoesNotExist()" classname="org.hyperledger.fabric.samples.assettransfer.AssetTransferTest$UpdateAssetTransaction" time="0.009"/>
+  <system-out><![CDATA[Asset asset1 does not exist
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
